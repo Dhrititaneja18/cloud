@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 pizza 
 burger
 noodles
+=======
+abcd
+efgd
+uhyj
+>>>>>>> movies
 
